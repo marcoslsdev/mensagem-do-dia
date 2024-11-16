@@ -1,0 +1,17 @@
+{
+  "name": "mensagem-do-dia",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "API REST que retorna uma frase de motivação de acordo com o dia atual do mês.",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.21.1",
+    "save": "^2.9.0"
+  }
+}
